@@ -45,8 +45,8 @@ Das Repository dokumentiert den **technischen Teil** der Arbeit – von der Date
 
 | Datei | Beschreibung |
 |--------|---------------|
-| **diverse_profiles.csv** | Die zehn im *Selection*-Notebook ermittelten, diversesten Profile. |
-| **profilbericht_alpha_beta_twostage.md** | Der vollständige Profilbericht mit den Ergebnissen der Evaluation (α/β-Metriken) und einer aggregierten Analyse. |
+| **diverse_profiles.csv** | Die zehn im *Selection*-Notebook ermittelten Profile. |
+| **profilbericht_alpha_beta_twostage.md** | Der vollständige Profilbericht mit den Ergebnissen der Evaluation (α/β-Metriken) |
 
 ---
 

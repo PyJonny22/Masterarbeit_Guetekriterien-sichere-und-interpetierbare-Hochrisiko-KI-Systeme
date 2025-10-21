@@ -6,9 +6,8 @@ Dieses Repository dient als **technischer Anhang** zum Evaluationskapitel der Ma
 ---
 
 ## Ziel
+Die Schritte 14-22 aus dem Ablaufplan Ablaufplan adressieren die praktische Umsetzung dieser Gütekriterien. Die kleine Fallstudie dient primär dem Zweck die Umsetzung der technischen Kriterien anhand eines vereinfachten Fallbeispiels zu simulieren. Dadurch werden die bis hierhin etwas abstrakten Gütekriterien für die geneigten Leser:innen anschaulicher und wir können darauf aufbauend Implikationen, Möglichkeiten zur Anwendung und Erweiterungen, sowie Grenzen diskutieren. Die Evaluation dient der Veranschaulichung und Problematisierung und nicht dem Zweck eine vollständige und umfassende Validierung dieser Gütekriterien vorzunehmen, dies ließe sich nur anhand einer Serie von Fallstudien mit deutlich komplexeren Modellen und Datensätzen realisieren. Im einem realen Fall würden Teile der hier beschrieben Ergebnisse anschließend nochmal in das Informationssicherheitskonzepts, der Betriebsanleitung und das Sicherheitsprotokolls überführt werden. Um Redundanz zu vermeiden, wird auf die Ausformulierung dieser Dokumente verzichtet. 
 
-Im Zentrum steht die Entwicklung und exemplarische Anwendung von **Gütekriterien** für die Bewertung von Hochrisiko-KI-Systemen im Kreditkontext.  
-Das Repository dokumentiert den **technischen Teil** der Arbeit – von der Datendekodierung über die Modellierung bis zur Evaluierung der epistemologischen Metriken.
 
 ---
 

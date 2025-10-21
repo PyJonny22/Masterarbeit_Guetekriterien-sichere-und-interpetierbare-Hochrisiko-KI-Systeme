@@ -5,7 +5,7 @@ Dieses Repository dient als **technischer Anhang** zum Evaluationskapitel der Ma
 
 ---
 
-## Ziel und Kontext
+## Ziel
 
 Im Zentrum steht die Entwicklung und exemplarische Anwendung von **Gütekriterien** für die Bewertung von Hochrisiko-KI-Systemen im Kreditkontext.  
 Das Repository dokumentiert den **technischen Teil** der Arbeit – von der Datendekodierung über die Modellierung bis zur Evaluierung der epistemologischen Metriken.
@@ -43,3 +43,14 @@ Das Repository dokumentiert den **technischen Teil** der Arbeit – von der Date
 - Folgende Python-Bibliotheken:
   ```bash
   pip install numpy pandas torch matplotlib seaborn scikit-learn
+
+## Lizenz & Zitation
+
+Diese Arbeit entstand im Rahmen der Masterarbeit an der **[Universität XYZ]** (2025).  
+Bitte zitiere bei Verwendung wie folgt:
+
+> Nachname, Vorname (2025): _Sicherheit als Verstehen, Verstehen als Vertrauen._  
+> Masterarbeit, Universität Osnabrück. Institut für Kognitionswissenscahften  
+> Technischer Anhang: [GitHub-Repository](https://github.com/PyJonny22/Masterarbeit_Guetekriterien-sichere-und-interpetierbare-Hochrisiko-KI-Systeme)
+
+© 2025 PyJonny22 – Dieses Repository steht unter der [MIT-Lizenz](LICENSE).

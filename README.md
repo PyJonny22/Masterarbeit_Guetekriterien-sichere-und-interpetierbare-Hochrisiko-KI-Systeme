@@ -53,4 +53,10 @@ Bitte zitiere bei Verwendung wie folgt:
 > Masterarbeit, Universität Osnabrück. Institut für Kognitionswissenscahften  
 > Technischer Anhang: [GitHub-Repository](https://github.com/PyJonny22/Masterarbeit_Guetekriterien-sichere-und-interpetierbare-Hochrisiko-KI-Systeme)
 
-© 2025 PyJonny22 – Dieses Repository steht unter der [MIT-Lizenz](LICENSE).
+## Lizenz
+© 2025 PyJonny22
+Der **Code** (z. B. alle Python-Notebooks und Skripte) steht unter der **MIT-Lizenz**.  
+Die **Texte, Auswertungen und Dokumente** der Masterarbeit stehen unter der  
+**Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** Lizenz.
+
+➡️ Siehe [LICENSE](./LICENSE) für vollständige Details.

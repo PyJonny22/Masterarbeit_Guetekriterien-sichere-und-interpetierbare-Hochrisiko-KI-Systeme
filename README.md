@@ -25,6 +25,22 @@ Das Repository dokumentiert den **technischen Teil** der Arbeit – von der Date
 
 ---
 
+### Masterarbeit
+
+| Documents | Beschreibung |
+|-----------|---------------|
+| **Masterarbeit_Niehus** | Enthält den Gesamttext der fertigen Masterarbeit inklusive Anhang. |
+
+---
+
+### Data
+
+| Documents | Beschreibung |
+|-----------|---------------|
+| **German.Data** | Enthält den Originaldatensatz in der Standardcodierung. |
+
+---
+
 ### Ergebnisdateien
 
 | Datei | Beschreibung |
@@ -46,7 +62,7 @@ Das Repository dokumentiert den **technischen Teil** der Arbeit – von der Date
 
 ## Lizenz & Zitation
 
-Diese Arbeit entstand im Rahmen der Masterarbeit an der **[Universität XYZ]** (2025).  
+Diese Arbeit entstand im Rahmen der Masterarbeit an der **Universität Osnabrück** (2025).  
 Bitte zitiere bei Verwendung wie folgt:
 
 > Nachname, Vorname (2025): _Sicherheit als Verstehen, Verstehen als Vertrauen._  

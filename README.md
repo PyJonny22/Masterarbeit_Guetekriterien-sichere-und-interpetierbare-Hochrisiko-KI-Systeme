@@ -14,11 +14,11 @@ Das Repository dokumentiert den **technischen Teil** der Arbeit – von der Date
 
 ## Inhalte
 
-### 🧩 Jupyter-Notebooks
+### Jupyter-Notebooks
 
 | Notebook | Beschreibung |
 |-----------|---------------|
-| **German Credit Data Lesbar** | Enthält die Dekodierung und Aufbereitung des *German Credit Data*-Datensatzes. |
+| **German Credit Data Lesbar** | Enthält den Quellcode für die Dekodierung und Aufbereitung des *German Credit Data*-Datensatzes. |
 | **German Credit ANN** | Implementiert das künstliche neuronale Netz (ANN), das auf dem *German Credit Data*-Datensatz trainiert wird. |
 | **Selection** | Skript zur Auswahl von zehn möglichst diversen Profilen aus dem Datensatz auf Basis einer Distanz- und Clustering-Heuristik. |
 | **Evaluation** | Berechnet die **α- (Notwendigkeit)** und **β- (Hinreichendkeits)**-Metriken für die ausgewählten Profile und visualisiert die Ergebnisse. |

@@ -1,4 +1,4 @@
-# Profilbericht (zweistufig): α/β je Profil – Ökonomisch vs. Soziodemographisch
+# Profilbericht zweistufig: α/β je Profil – Ökonomisch und Soziodemographisch
 
 - **Anzahl Profile:** 10
 - **Hinreichend-Schwelle:** β ≥ 0.7
@@ -362,5 +362,6 @@
 | Telefon                       |                 0 | 0.7665 |                      1 |
 | Ausländischer_Arbeiter        |                 0 | 0.784  |                      1 |
 | Beruf                         |                 1 | 0.8    |                      1 |
+
 
 ---

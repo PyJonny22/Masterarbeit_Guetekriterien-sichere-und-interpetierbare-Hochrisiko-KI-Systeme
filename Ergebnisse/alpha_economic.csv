@@ -1,0 +1,11 @@
+profile_index,Kreditbetrag,Dauer_in_Monaten,Ratenhöhe,Anzahl_bestehender_Kredite,Status_des_Girokontos,Kreditgeschichte,Kreditverwendungszweck,Sparkonto_Wertpapiere,Vermögen,Weitere_Bürgen_Schuldner,Andere_Ratenverpflichtungen
+0,0,1,1,0,1,1,1,1,0,0,1
+1,0,1,0,0,0,0,0,0,0,0,0
+2,0,0,0,1,0,0,0,0,0,0,0
+3,1,1,0,1,1,1,1,1,1,1,1
+4,0,1,0,0,1,1,1,0,1,0,0
+5,0,1,1,1,1,1,1,1,1,1,1
+6,0,1,0,0,0,0,0,0,0,0,0
+7,0,0,0,0,0,0,0,0,0,0,0
+8,0,0,1,0,0,0,0,0,0,0,0
+9,0,0,0,1,0,0,0,1,0,0,0

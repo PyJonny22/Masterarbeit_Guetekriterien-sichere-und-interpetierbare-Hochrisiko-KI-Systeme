@@ -66,7 +66,7 @@ Die Evaluation dient der Veranschaulichung und Problematisierung und nicht dem Z
 Diese Arbeit entstand im Rahmen der Masterarbeit an der **Universität Osnabrück** (2025).  
 Bitte zitiere bei Verwendung wie folgt:
 
-> Nachname, Vorname (2025): _Sicherheit als Verstehen, Verstehen als Vertrauen._  
+> Niehus, Jonas (2025): _Sicherheit als Verstehen, Verstehen als Vertrauen._  
 > Masterarbeit, Universität Osnabrück. Institut für Kognitionswissenschaften  
 > Technischer Anhang: [GitHub-Repository](https://github.com/PyJonny22/Masterarbeit_Guetekriterien-sichere-und-interpetierbare-Hochrisiko-KI-Systeme)
 

@@ -1,0 +1,201 @@
+is_necessary,original_label,original_proba,original_value,cf_value,delta_abs,cf_label,cf_proba,profile_index,feature,gruppe
+False,1,0.551289439201355,6458.0,,,,,0,Kreditbetrag,oekonomisch
+True,1,0.551289439201355,18.0,48.0,30.0,0.0,0.49394911527633667,0,Dauer_in_Monaten,oekonomisch
+True,1,0.551289439201355,2.0,3.25,1.25,0.0,0.49115440249443054,0,Ratenhöhe,oekonomisch
+False,1,0.551289439201355,2.0,,,,,0,Anzahl_bestehender_Kredite,oekonomisch
+True,1,0.551289439201355,alle Kredite bei dieser Bank wurden ordnungsgemäß zurückgezahlt,A30,,0.0,0.49182480573654175,0,Kreditgeschichte,oekonomisch
+True,1,0.551289439201355,Auto (neu),A46,,0.0,0.4749719500541687,0,Kreditverwendungszweck,oekonomisch
+True,1,0.551289439201355,... < 100 DM,A61,,0.0,0.47928693890571594,0,Sparkonto_Wertpapiere,oekonomisch
+False,1,0.551289439201355,unbekannt/kein Eigentum,,,,,0,Vermögen,oekonomisch
+True,1,0.551289439201355,kein Girokonto,A11,,0.0,0.4742591679096222,0,Status_des_Girokontos,oekonomisch
+False,1,0.551289439201355,.. >= 7 Jahre,,,,,0,Beschäftigt_seit,oekonomisch
+True,1,0.551289439201355,Bank,A141,,0.0,0.49392762780189514,0,Andere_Ratenverpflichtungen,oekonomisch
+False,1,0.551289439201355,keine,,,,,0,Weitere_Bürgen_Schuldner,oekonomisch
+False,0,0.2402929812669754,5595.0,,,,,1,Kreditbetrag,oekonomisch
+True,0,0.2402929812669754,72.0,32.25,39.75,1.0,0.5026603937149048,1,Dauer_in_Monaten,oekonomisch
+False,0,0.2402929812669754,2.0,,,,,1,Ratenhöhe,oekonomisch
+False,0,0.2402929812669754,1.0,,,,,1,Anzahl_bestehender_Kredite,oekonomisch
+False,0,0.2402929812669754,bestehende Kredite wurden bisher ordnungsgemäß zurückgezahlt,,,,,1,Kreditgeschichte,oekonomisch
+False,0,0.2402929812669754,Radio/TV,,,,,1,Kreditverwendungszweck,oekonomisch
+False,0,0.2402929812669754,100 <= ... < 500 DM,,,,,1,Sparkonto_Wertpapiere,oekonomisch
+False,0,0.2402929812669754,"wenn nicht A121/A122: Auto oder anderes, nicht in Attribut 6",,,,,1,Vermögen,oekonomisch
+False,0,0.2402929812669754,0 <= ... < 200 DM,,,,,1,Status_des_Girokontos,oekonomisch
+False,0,0.2402929812669754,1 <= ... < 4 Jahre,,,,,1,Beschäftigt_seit,oekonomisch
+False,0,0.2402929812669754,Keine,,,,,1,Andere_Ratenverpflichtungen,oekonomisch
+False,0,0.2402929812669754,keine,,,,,1,Weitere_Bürgen_Schuldner,oekonomisch
+False,0,0.20470599830150604,951.0,,,,,2,Kreditbetrag,oekonomisch
+False,0,0.20470599830150604,12.0,,,,,2,Dauer_in_Monaten,oekonomisch
+False,0,0.20470599830150604,4.0,,,,,2,Ratenhöhe,oekonomisch
+True,0,0.20470599830150604,4.0,1.25,2.75,1.0,0.5009622573852539,2,Anzahl_bestehender_Kredite,oekonomisch
+False,0,0.20470599830150604,bestehende Kredite wurden bisher ordnungsgemäß zurückgezahlt,,,,,2,Kreditgeschichte,oekonomisch
+False,0,0.20470599830150604,Möbel/Ausstattung,,,,,2,Kreditverwendungszweck,oekonomisch
+False,0,0.20470599830150604,100 <= ... < 500 DM,,,,,2,Sparkonto_Wertpapiere,oekonomisch
+False,0,0.20470599830150604,"wenn nicht A121/A122: Auto oder anderes, nicht in Attribut 6",,,,,2,Vermögen,oekonomisch
+False,0,0.20470599830150604,0 <= ... < 200 DM,,,,,2,Status_des_Girokontos,oekonomisch
+False,0,0.20470599830150604,... < 1 Jahr,,,,,2,Beschäftigt_seit,oekonomisch
+False,0,0.20470599830150604,Bank,,,,,2,Andere_Ratenverpflichtungen,oekonomisch
+False,0,0.20470599830150604,keine,,,,,2,Weitere_Bürgen_Schuldner,oekonomisch
+True,1,0.5015133619308472,609.0,1765.6687499999994,1156.6687499999994,0.0,0.49944382905960083,3,Kreditbetrag,oekonomisch
+True,1,0.5015133619308472,12.0,16.5,4.5,0.0,0.47313380241394043,3,Dauer_in_Monaten,oekonomisch
+False,1,0.5015133619308472,4.0,,,,,3,Ratenhöhe,oekonomisch
+True,1,0.5015133619308472,1.0,1.125,0.125,0.0,0.4991447925567627,3,Anzahl_bestehender_Kredite,oekonomisch
+True,1,0.5015133619308472,alle Kredite bei dieser Bank wurden ordnungsgemäß zurückgezahlt,A30,,0.0,0.3657020032405853,3,Kreditgeschichte,oekonomisch
+True,1,0.5015133619308472,Geschäft,A40,,0.0,0.48730507493019104,3,Kreditverwendungszweck,oekonomisch
+True,1,0.5015133619308472,... < 100 DM,A61,,0.0,0.4393949806690216,3,Sparkonto_Wertpapiere,oekonomisch
+True,1,0.5015133619308472,Immobilie,A122,,0.0,0.493120938539505,3,Vermögen,oekonomisch
+True,1,0.5015133619308472,... >= 200 DM / Gehaltspfändung mindestens 1 Jahr,A11,,0.0,0.3966521620750427,3,Status_des_Girokontos,oekonomisch
+True,1,0.5015133619308472,... < 1 Jahr,A71,,0.0,0.4272613525390625,3,Beschäftigt_seit,oekonomisch
+True,1,0.5015133619308472,Keine,A141,,0.0,0.4874664843082428,3,Andere_Ratenverpflichtungen,oekonomisch
+True,1,0.5015133619308472,keine,A101,,0.0,0.48898178339004517,3,Weitere_Bürgen_Schuldner,oekonomisch
+False,0,0.47795963287353516,15945.0,,,,,4,Kreditbetrag,oekonomisch
+True,0,0.47795963287353516,54.0,48.0,6.0,1.0,0.5097808241844177,4,Dauer_in_Monaten,oekonomisch
+False,0,0.47795963287353516,3.0,,,,,4,Ratenhöhe,oekonomisch
+False,0,0.47795963287353516,1.0,,,,,4,Anzahl_bestehender_Kredite,oekonomisch
+True,0,0.47795963287353516,keine Kredite aufgenommen / alle Kredite wurden ordnungsgemäß zurückgezahlt,A33,,1.0,0.5237005352973938,4,Kreditgeschichte,oekonomisch
+True,0,0.47795963287353516,Geschäft,A40,,1.0,0.5089691877365112,4,Kreditverwendungszweck,oekonomisch
+False,0,0.47795963287353516,... < 100 DM,,,,,4,Sparkonto_Wertpapiere,oekonomisch
+True,0,0.47795963287353516,unbekannt/kein Eigentum,A121,,1.0,0.5261853337287903,4,Vermögen,oekonomisch
+True,0,0.47795963287353516,0 <= ... < 200 DM,A13,,1.0,0.5237005352973938,4,Status_des_Girokontos,oekonomisch
+True,0,0.47795963287353516,... < 1 Jahr,A75,,1.0,0.5014663934707642,4,Beschäftigt_seit,oekonomisch
+False,0,0.47795963287353516,Keine,,,,,4,Andere_Ratenverpflichtungen,oekonomisch
+False,0,0.47795963287353516,keine,,,,,4,Weitere_Bürgen_Schuldner,oekonomisch
+False,0,0.48925626277923584,2223.0,,,,,5,Kreditbetrag,oekonomisch
+True,0,0.48925626277923584,24.0,21.75,2.25,1.0,0.511696457862854,5,Dauer_in_Monaten,oekonomisch
+True,0,0.48925626277923584,4.0,3.625,0.375,1.0,0.520976185798645,5,Ratenhöhe,oekonomisch
+True,0,0.48925626277923584,2.0,1.875,0.125,1.0,0.5047202110290527,5,Anzahl_bestehender_Kredite,oekonomisch
+True,0,0.48925626277923584,kritisches Konto / andere Kredite bestehen (nicht bei dieser Bank),A32,,1.0,0.517449140548706,5,Kreditgeschichte,oekonomisch
+True,0,0.48925626277923584,Radio/TV,A41,,1.0,0.6566214561462402,5,Kreditverwendungszweck,oekonomisch
+True,0,0.48925626277923584,100 <= ... < 500 DM,A63,,1.0,0.5262781381607056,5,Sparkonto_Wertpapiere,oekonomisch
+True,0,0.48925626277923584,wenn nicht A121: Bausparvertrag/Lebensversicherung,A121,,1.0,0.6117002964019775,5,Vermögen,oekonomisch
+True,0,0.48925626277923584,kein Girokonto,A12,,1.0,0.5046958327293396,5,Status_des_Girokontos,oekonomisch
+True,0,0.48925626277923584,.. >= 7 Jahre,A72,,1.0,0.5181818604469299,5,Beschäftigt_seit,oekonomisch
+True,0,0.48925626277923584,Bank,A143,,1.0,0.5355037450790405,5,Andere_Ratenverpflichtungen,oekonomisch
+True,0,0.48925626277923584,keine,A101,,1.0,0.5529060363769531,5,Weitere_Bürgen_Schuldner,oekonomisch
+False,0,0.22809770703315735,15653.0,,,,,6,Kreditbetrag,oekonomisch
+True,0,0.22809770703315735,60.0,11.25,48.75,1.0,0.503299355506897,6,Dauer_in_Monaten,oekonomisch
+False,0,0.22809770703315735,2.0,,,,,6,Ratenhöhe,oekonomisch
+False,0,0.22809770703315735,2.0,,,,,6,Anzahl_bestehender_Kredite,oekonomisch
+False,0,0.22809770703315735,Verzögerungen bei der Rückzahlung in der Vergangenheit,,,,,6,Kreditgeschichte,oekonomisch
+False,0,0.22809770703315735,Radio/TV,,,,,6,Kreditverwendungszweck,oekonomisch
+False,0,0.22809770703315735,... < 100 DM,,,,,6,Sparkonto_Wertpapiere,oekonomisch
+False,0,0.22809770703315735,"wenn nicht A121/A122: Auto oder anderes, nicht in Attribut 6",,,,,6,Vermögen,oekonomisch
+False,0,0.22809770703315735,kein Girokonto,,,,,6,Status_des_Girokontos,oekonomisch
+False,0,0.22809770703315735,4 <= ... < 7 Jahre,,,,,6,Beschäftigt_seit,oekonomisch
+False,0,0.22809770703315735,Keine,,,,,6,Andere_Ratenverpflichtungen,oekonomisch
+False,0,0.22809770703315735,keine,,,,,6,Weitere_Bürgen_Schuldner,oekonomisch
+False,1,0.6622378826141357,1299.0,,,,,7,Kreditbetrag,oekonomisch
+False,1,0.6622378826141357,6.0,,,,,7,Dauer_in_Monaten,oekonomisch
+False,1,0.6622378826141357,1.0,,,,,7,Ratenhöhe,oekonomisch
+False,1,0.6622378826141357,3.0,,,,,7,Anzahl_bestehender_Kredite,oekonomisch
+False,1,0.6622378826141357,kritisches Konto / andere Kredite bestehen (nicht bei dieser Bank),,,,,7,Kreditgeschichte,oekonomisch
+False,1,0.6622378826141357,Auto (neu),,,,,7,Kreditverwendungszweck,oekonomisch
+False,1,0.6622378826141357,... < 100 DM,,,,,7,Sparkonto_Wertpapiere,oekonomisch
+False,1,0.6622378826141357,Immobilie,,,,,7,Vermögen,oekonomisch
+False,1,0.6622378826141357,... >= 200 DM / Gehaltspfändung mindestens 1 Jahr,,,,,7,Status_des_Girokontos,oekonomisch
+False,1,0.6622378826141357,1 <= ... < 4 Jahre,,,,,7,Beschäftigt_seit,oekonomisch
+False,1,0.6622378826141357,Keine,,,,,7,Andere_Ratenverpflichtungen,oekonomisch
+False,1,0.6622378826141357,keine,,,,,7,Weitere_Bürgen_Schuldner,oekonomisch
+False,1,0.6104102730751038,601.0,,,,,8,Kreditbetrag,oekonomisch
+False,1,0.6104102730751038,4.0,,,,,8,Dauer_in_Monaten,oekonomisch
+True,1,0.6104102730751038,1.0,3.625,2.625,0.0,0.4825247526168823,8,Ratenhöhe,oekonomisch
+False,1,0.6104102730751038,1.0,,,,,8,Anzahl_bestehender_Kredite,oekonomisch
+False,1,0.6104102730751038,bestehende Kredite wurden bisher ordnungsgemäß zurückgezahlt,,,,,8,Kreditgeschichte,oekonomisch
+False,1,0.6104102730751038,Möbel/Ausstattung,,,,,8,Kreditverwendungszweck,oekonomisch
+False,1,0.6104102730751038,... < 100 DM,,,,,8,Sparkonto_Wertpapiere,oekonomisch
+False,1,0.6104102730751038,Immobilie,,,,,8,Vermögen,oekonomisch
+False,1,0.6104102730751038,kein Girokonto,,,,,8,Status_des_Girokontos,oekonomisch
+False,1,0.6104102730751038,... < 1 Jahr,,,,,8,Beschäftigt_seit,oekonomisch
+False,1,0.6104102730751038,Keine,,,,,8,Andere_Ratenverpflichtungen,oekonomisch
+False,1,0.6104102730751038,keine,,,,,8,Weitere_Bürgen_Schuldner,oekonomisch
+False,1,0.5449069738388062,9283.0,,,,,9,Kreditbetrag,oekonomisch
+False,1,0.5449069738388062,42.0,,,,,9,Dauer_in_Monaten,oekonomisch
+False,1,0.5449069738388062,1.0,,,,,9,Ratenhöhe,oekonomisch
+True,1,0.5449069738388062,1.0,1.625,0.625,0.0,0.4920668303966522,9,Anzahl_bestehender_Kredite,oekonomisch
+False,1,0.5449069738388062,alle Kredite bei dieser Bank wurden ordnungsgemäß zurückgezahlt,,,,,9,Kreditgeschichte,oekonomisch
+False,1,0.5449069738388062,Auto (gebraucht),,,,,9,Kreditverwendungszweck,oekonomisch
+True,1,0.5449069738388062,... < 100 DM,A63,,0.0,0.49713024497032166,9,Sparkonto_Wertpapiere,oekonomisch
+False,1,0.5449069738388062,unbekannt/kein Eigentum,,,,,9,Vermögen,oekonomisch
+False,1,0.5449069738388062,0 <= ... < 200 DM,,,,,9,Status_des_Girokontos,oekonomisch
+False,1,0.5449069738388062,arbeitslos,,,,,9,Beschäftigt_seit,oekonomisch
+False,1,0.5449069738388062,Bank,,,,,9,Andere_Ratenverpflichtungen,oekonomisch
+False,1,0.5449069738388062,keine,,,,,9,Weitere_Bürgen_Schuldner,oekonomisch
+True,1,0.551289439201355,39.0,26.75,12.25,0.0,0.49085915088653564,0,Alter,sozio
+False,1,0.551289439201355,4.0,,,,,0,Wohnsitzdauer,sozio
+True,1,0.551289439201355,2.0,1.125,0.875,0.0,0.4953063130378723,0,Unterhaltspflichtige_Personen,sozio
+False,1,0.551289439201355,männlich : ledig,,,,,0,Familienstand_Geschlecht,sozio
+False,1,0.551289439201355,Eigentum,,,,,0,Wohnsituation,sozio
+False,1,0.551289439201355,"ja, unter dem Namen des Kunden registriert",,,,,0,Telefon,sozio
+False,1,0.551289439201355,ja,,,,,0,Ausländischer_Arbeiter,sozio
+False,1,0.551289439201355,Management/selbstständig/hochqualifizierter Angestellter/Beamter,,,,,0,Beruf,sozio
+False,0,0.2402929812669754,24.0,,,,,1,Alter,sozio
+False,0,0.2402929812669754,2.0,,,,,1,Wohnsitzdauer,sozio
+False,0,0.2402929812669754,1.0,,,,,1,Unterhaltspflichtige_Personen,sozio
+False,0,0.2402929812669754,männlich : verheiratet/witwer,,,,,1,Familienstand_Geschlecht,sozio
+False,0,0.2402929812669754,Eigentum,,,,,1,Wohnsituation,sozio
+False,0,0.2402929812669754,kein Telefon,,,,,1,Telefon,sozio
+False,0,0.2402929812669754,ja,,,,,1,Ausländischer_Arbeiter,sozio
+False,0,0.2402929812669754,gelernt - Angestellter/Beamter,,,,,1,Beruf,sozio
+False,0,0.20470599830150604,27.0,,,,,2,Alter,sozio
+False,0,0.20470599830150604,4.0,,,,,2,Wohnsitzdauer,sozio
+False,0,0.20470599830150604,1.0,,,,,2,Unterhaltspflichtige_Personen,sozio
+False,0,0.20470599830150604,weiblich : geschieden/getrennt/verheiratet,,,,,2,Familienstand_Geschlecht,sozio
+False,0,0.20470599830150604,Miete,,,,,2,Wohnsituation,sozio
+False,0,0.20470599830150604,kein Telefon,,,,,2,Telefon,sozio
+False,0,0.20470599830150604,ja,,,,,2,Ausländischer_Arbeiter,sozio
+False,0,0.20470599830150604,gelernt - Angestellter/Beamter,,,,,2,Beruf,sozio
+True,1,0.5015133619308472,26.0,22.0,4.0,0.0,0.4901409447193146,3,Alter,sozio
+False,1,0.5015133619308472,1.0,,,,,3,Wohnsitzdauer,sozio
+True,1,0.5015133619308472,1.0,1.125,0.125,0.0,0.4880150854587555,3,Unterhaltspflichtige_Personen,sozio
+True,1,0.5015133619308472,weiblich : geschieden/getrennt/verheiratet,A91,,0.0,0.47350218892097473,3,Familienstand_Geschlecht,sozio
+True,1,0.5015133619308472,Eigentum,A151,,0.0,0.4829524755477905,3,Wohnsituation,sozio
+True,1,0.5015133619308472,kein Telefon,A191,,0.0,0.47905492782592773,3,Telefon,sozio
+False,1,0.5015133619308472,ja,,,,,3,Ausländischer_Arbeiter,sozio
+True,1,0.5015133619308472,arbeitslos/ungelernt - nicht ansässig,A171,,0.0,0.47611725330352783,3,Beruf,sozio
+False,0,0.47795963287353516,58.0,,,,,4,Alter,sozio
+True,0,0.47795963287353516,4.0,2.875,1.125,1.0,0.5052131414413452,4,Wohnsitzdauer,sozio
+True,0,0.47795963287353516,1.0,1.25,0.25,1.0,0.5140149593353271,4,Unterhaltspflichtige_Personen,sozio
+True,0,0.47795963287353516,männlich : ledig,A91,,1.0,0.511499285697937,4,Familienstand_Geschlecht,sozio
+False,0,0.47795963287353516,Miete,,,,,4,Wohnsituation,sozio
+True,0,0.47795963287353516,"ja, unter dem Namen des Kunden registriert",A191,,1.0,0.5360808372497559,4,Telefon,sozio
+False,0,0.47795963287353516,ja,,,,,4,Ausländischer_Arbeiter,sozio
+True,0,0.47795963287353516,gelernt - Angestellter/Beamter,A171,,1.0,0.506256103515625,4,Beruf,sozio
+True,0,0.48925626277923584,52.0,55.25,3.25,1.0,0.5161087512969971,5,Alter,sozio
+True,0,0.48925626277923584,4.0,2.875,1.125,1.0,0.5040861368179321,5,Wohnsitzdauer,sozio
+True,0,0.48925626277923584,1.0,1.125,0.125,1.0,0.5011229515075684,5,Unterhaltspflichtige_Personen,sozio
+True,0,0.48925626277923584,männlich : ledig,A91,,1.0,0.5097482800483704,5,Familienstand_Geschlecht,sozio
+False,0,0.48925626277923584,Eigentum,,,,,5,Wohnsituation,sozio
+True,0,0.48925626277923584,kein Telefon,A191,,1.0,0.5321416854858398,5,Telefon,sozio
+True,0,0.48925626277923584,ja,A202,,1.0,0.5745618343353271,5,Ausländischer_Arbeiter,sozio
+True,0,0.48925626277923584,gelernt - Angestellter/Beamter,A171,,1.0,0.5067558288574219,5,Beruf,sozio
+False,0,0.22809770703315735,21.0,,,,,6,Alter,sozio
+False,0,0.22809770703315735,4.0,,,,,6,Wohnsitzdauer,sozio
+False,0,0.22809770703315735,1.0,,,,,6,Unterhaltspflichtige_Personen,sozio
+False,0,0.22809770703315735,männlich : ledig,,,,,6,Familienstand_Geschlecht,sozio
+False,0,0.22809770703315735,Eigentum,,,,,6,Wohnsituation,sozio
+False,0,0.22809770703315735,"ja, unter dem Namen des Kunden registriert",,,,,6,Telefon,sozio
+False,0,0.22809770703315735,ja,,,,,6,Ausländischer_Arbeiter,sozio
+False,0,0.22809770703315735,gelernt - Angestellter/Beamter,,,,,6,Beruf,sozio
+False,1,0.6622378826141357,74.0,,,,,7,Alter,sozio
+False,1,0.6622378826141357,1.0,,,,,7,Wohnsitzdauer,sozio
+False,1,0.6622378826141357,2.0,,,,,7,Unterhaltspflichtige_Personen,sozio
+False,1,0.6622378826141357,männlich : ledig,,,,,7,Familienstand_Geschlecht,sozio
+False,1,0.6622378826141357,Eigentum,,,,,7,Wohnsituation,sozio
+False,1,0.6622378826141357,kein Telefon,,,,,7,Telefon,sozio
+False,1,0.6622378826141357,nein,,,,,7,Ausländischer_Arbeiter,sozio
+False,1,0.6622378826141357,arbeitslos/ungelernt - nicht ansässig,,,,,7,Beruf,sozio
+False,1,0.6104102730751038,23.0,,,,,8,Alter,sozio
+False,1,0.6104102730751038,3.0,,,,,8,Wohnsitzdauer,sozio
+False,1,0.6104102730751038,2.0,,,,,8,Unterhaltspflichtige_Personen,sozio
+False,1,0.6104102730751038,weiblich : geschieden/getrennt/verheiratet,,,,,8,Familienstand_Geschlecht,sozio
+False,1,0.6104102730751038,Miete,,,,,8,Wohnsituation,sozio
+False,1,0.6104102730751038,kein Telefon,,,,,8,Telefon,sozio
+False,1,0.6104102730751038,ja,,,,,8,Ausländischer_Arbeiter,sozio
+False,1,0.6104102730751038,ungelernt - ansässig,,,,,8,Beruf,sozio
+True,1,0.5449069738388062,55.0,36.25,18.75,0.0,0.49798351526260376,9,Alter,sozio
+False,1,0.5449069738388062,2.0,,,,,9,Wohnsitzdauer,sozio
+False,1,0.5449069738388062,1.0,,,,,9,Unterhaltspflichtige_Personen,sozio
+True,1,0.5449069738388062,männlich : ledig,A92,,0.0,0.46535614132881165,9,Familienstand_Geschlecht,sozio
+False,1,0.5449069738388062,kostenlos,,,,,9,Wohnsituation,sozio
+False,1,0.5449069738388062,"ja, unter dem Namen des Kunden registriert",,,,,9,Telefon,sozio
+False,1,0.5449069738388062,ja,,,,,9,Ausländischer_Arbeiter,sozio
+True,1,0.5449069738388062,Management/selbstständig/hochqualifizierter Angestellter/Beamter,A174,,0.0,0.4956909716129303,9,Beruf,sozio

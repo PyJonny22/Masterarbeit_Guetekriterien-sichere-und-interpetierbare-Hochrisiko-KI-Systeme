@@ -50,9 +50,9 @@ Die Evaluation dient der Veranschaulichung und Problematisierung und nicht dem Z
 |--------|---------------|
 | **diverse_profiles.csv** | Die zehn im *Selection*-Notebook ermittelten Profile. |
 | **Profilbericht.md** | Der aggregierte Profilbericht mit den Ergebnissen der Evaluation (α/β-Metriken) |
-| **Profilbericht_detail.md** | Der detaillierte Profilbericht mit den Ergebnissen der Evaluation |
-| **alpha_details.csv** | Der detaillierte Profilbericht mit den Ergebnissen der Evaluation |
-| **beta_details.csv** | Der detaillierte Profilbericht mit den Ergebnissen der Evaluation |
+| **Profilbericht_details.md** | Der detaillierte Profilbericht mit den Ergebnissen der Evaluation |
+| **alpha_details.csv** | Die CSV mit den detailierten Werten für die **alpha**-Metrik. Voraussetzung für Evlaution_details |
+| **beta_details.csv** | Die CSV mit den detailierten Werten für die **beta**-Metrik. Voraussetzung für Evlaution_details |
 
 ---
 

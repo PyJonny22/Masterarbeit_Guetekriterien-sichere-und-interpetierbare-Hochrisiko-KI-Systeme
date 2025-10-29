@@ -1,6 +1,6 @@
 # Masterarbeit: Gütekriterien für sichere und interpretierbare Hochrisiko-KI-Systeme
 
-Dieses Repository dient als **technischer Anhang** zum Evaluationskapitel der Masterarbeit mit dem Titel **„Sicherheit als Verstehen, Verstehen als Vertrauen – Theoretische Herleitung und angewandte Evaluation von Gütekriterien zur Erfüllung rechtlicher und ethischer Anforderungen an sichere und interpretierbare KI-Systeme“**.
+Dieses Repository dient als **technischer Anhang** zum programmbasierten Teil der Evaluation der Masterarbeit mit dem Titel **„Sicherheit als Verstehen, Verstehen als Vertrauen: Theoretische Herleitung und angewandte Evaluation von Gütekriterien zur Erfüllung rechtlicher und ethischer Anforderungen an sichere und interpretierbare KI-Systeme“**.
 
 ---
 
@@ -15,7 +15,7 @@ Die Evaluation dient der Veranschaulichung und Problematisierung und nicht dem Z
 
 ## Inhalte
 
-### Jupyter-Notebooks
+### notebooks
 
 | Notebook | Beschreibung |
 |-----------|---------------|
@@ -23,31 +23,36 @@ Die Evaluation dient der Veranschaulichung und Problematisierung und nicht dem Z
 | **German Credit ANN** | Implementiert das künstliche neuronale Netz (ANN), das auf dem *German Credit Data*-Datensatz trainiert wird. |
 | **Selection** | Skript zur Auswahl von zehn möglichst diversen Profilen aus dem Datensatz auf Basis einer Distanz- und Clustering-Heuristik. |
 | **Evaluation** | Berechnet die **α- (Notwendigkeit)** und **β- (Hinreichendkeits)**-Metriken für die ausgewählten Profile und visualisiert die Ergebnisse. |
+| **Evaluation_detail** | Berechnet die **α-** und **β-**-Metriken für die ausgewählten Profile und baut einen detailierten Report über die Modifikationen der einzelnen Variablen |
 
 ---
 
-### Masterarbeit
+### documents
 
-| Documents | Beschreibung |
+| documents | Beschreibung |
 |-----------|---------------|
 | **Masterarbeit_Niehus** | Enthält den Gesamttext der fertigen Masterarbeit inklusive Anhang. |
 
 ---
 
-### Data
+### data
 
-| Documents | Beschreibung |
+| Dateien | Beschreibung |
 |-----------|---------------|
-| **German.Data** | Enthält den Originaldatensatz in der Standardcodierung. |
+| **german.data** | Enthält den Originaldatensatz in der Standardcodierung. |
+| **german_readable** | Enthält den lesbaren, decodierten Datensatz. |
 
 ---
 
-### Ergebnisdateien
+### results
 
 | Datei | Beschreibung |
 |--------|---------------|
 | **diverse_profiles.csv** | Die zehn im *Selection*-Notebook ermittelten Profile. |
-| **profilbericht_alpha_beta_twostage.md** | Der vollständige Profilbericht mit den Ergebnissen der Evaluation (α/β-Metriken) |
+| **Profilbericht.md** | Der aggregierte Profilbericht mit den Ergebnissen der Evaluation (α/β-Metriken) |
+| **Profilbericht_details.md** | Der detaillierte Profilbericht mit den Ergebnissen der Evaluation |
+| **alpha_details.csv** | Die CSV mit den detailierten Werten für die **alpha**-Metrik. Voraussetzung für Evlaution_details |
+| **beta_details.csv** | Die CSV mit den detailierten Werten für die **beta**-Metrik. Voraussetzung für Evlaution_details |
 
 ---
 

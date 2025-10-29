@@ -15,17 +15,14 @@ Die Evaluation dient der Veranschaulichung und Problematisierung und nicht dem Z
 
 ## Inhalte
 
-### notebooks
+### data
 
-| Notebook | Beschreibung |
+| Dateien | Beschreibung |
 |-----------|---------------|
-| **German Credit Data Lesbar** | Enthält den Quellcode für die Dekodierung und Aufbereitung des *German Credit Data*-Datensatzes. |
-| **German Credit ANN** | Implementiert das künstliche neuronale Netz (ANN), das auf dem *German Credit Data*-Datensatz trainiert wird. |
-| **Selection** | Skript zur Auswahl von zehn möglichst diversen Profilen aus dem Datensatz auf Basis einer Distanz- und Clustering-Heuristik. |
-| **Evaluation** | Berechnet die **α- (Notwendigkeit)** und **β- (Hinreichendkeits)**-Metriken für die ausgewählten Profile und visualisiert die Ergebnisse. |
-| **Evaluation_detail** | Berechnet die **α-** und **β-**-Metriken für die ausgewählten Profile und baut einen detailierten Report über die Modifikationen der einzelnen Variablen |
+| **german.data** | Enthält den Originaldatensatz in der Standardcodierung. |
+| **german_readable** | Enthält den lesbaren, decodierten Datensatz. |
 
----
+--- 
 
 ### documents
 
@@ -35,12 +32,23 @@ Die Evaluation dient der Veranschaulichung und Problematisierung und nicht dem Z
 
 ---
 
-### data
+### models
 
 | Dateien | Beschreibung |
 |-----------|---------------|
-| **german.data** | Enthält den Originaldatensatz in der Standardcodierung. |
-| **german_readable** | Enthält den lesbaren, decodierten Datensatz. |
+| *German_credit_model.keras** | Das trainierte Modell mit eingefrorenen Parametern für die Evaluation. |
+
+---
+
+### notebooks
+
+| Notebook | Beschreibung |
+|-----------|---------------|
+| **German Credit Data Lesbar** | Enthält den Quellcode für die Dekodierung und Aufbereitung des *German Credit Data*-Datensatzes. |
+| **German Credit ANN** | Implementiert das künstliche neuronale Netz (ANN), das auf dem *German Credit Data*-Datensatz trainiert wird. |
+| **Selection** | Skript zur Auswahl von zehn möglichst diversen Profilen aus dem Datensatz auf Basis einer Distanz- und Clustering-Heuristik. |
+| **Evaluation** | Berechnet die **α- (Notwendigkeit)** und **β- (Hinreichendkeits)**-Metriken für die ausgewählten Profile und visualisiert die Ergebnisse. |
+| **Evaluation_detail** | Berechnet die **α-** und **β-**-Metriken für die ausgewählten Profile und baut einen detailierten Report über die Modifikationen der einzelnen Variablen |
 
 ---
 

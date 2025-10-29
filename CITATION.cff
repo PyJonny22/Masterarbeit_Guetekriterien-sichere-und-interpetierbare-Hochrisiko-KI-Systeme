@@ -5,8 +5,8 @@ authors:
   - family-names: "Niehus"
     given-names: "Jonas"
     affiliation: "Universität Osnabrück"
-version: "v02"
-date-released: "2025-10-28"
+version: "v03"
+date-released: "2025-10-29"
 url: "https://github.com/PyJonny22/Masterarbeit_Guetekriterien-sichere-und-interpetierbare-Hochrisiko-KI-Systeme/releases/tag/v02"
 license: "MIT"
 type: software

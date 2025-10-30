@@ -12,11 +12,12 @@ Die Schritte **14-22** aus dem Ablaufplan (Kapitel 7.4) adressieren die praktisc
 Die Evaluation dient der Veranschaulichung und Problematisierung und nicht dem Zweck eine vollständige und umfassende Validierung dieser Gütekriterien vorzunehmen, dies ließe sich nur anhand einer Serie von Fallstudien mit deutlich komplexeren Modellen und Datensätzen realisieren. Daraus folgt auch insbesondere, dass das hier veranschlagte Modell, als auch die generierten Erklärungen nicht für den direkten Praxistransfer geeignet sind. Ich ziele darauf ab, den Grundaufbau plausibel zu simulieren und behaupte nicht, dass die generiere Erklärungslogik in realen Fällen überzeugt. Um die kontextuelle Sachlogik für Kreditanalysen vollständig zu erfassen, wäre eine noch deutlich ausführlichere Evaluation und Auswertung nötig, dies würde jedoch den Rahmen dieser Arbeit sprengen. 
 
 ## Struktur
-data/        
+data/       
+documents/   
 models/      
 notebooks/   
 results/     
-documents/   
+
 
 ---
 

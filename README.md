@@ -1,7 +1,8 @@
 # Masterarbeit: Gütekriterien für sichere und interpretierbare Hochrisiko-KI-Systeme
 
 Dieses Repository dient als **technischer Anhang** zum programmbasierten Teil der Evaluation der Masterarbeit mit dem Titel **„Sicherheit als Verstehen, Verstehen als Vertrauen: Theoretische Herleitung und angewandte 
-Evaluation von Gütekriterien, die die rechtlichen und ethischen Anforderungen an sichere und erklärbare künstliche Intelligenz Systeme erfüllen.“**.
+Evaluation von Gütekriterien, die die rechtlichen und ethischen Anforderungen an sichere und 
+erklärbare künstliche Intelligenz Systeme erfüllen.“**.
 
 ---
 
